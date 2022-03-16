@@ -1,0 +1,16 @@
+div {
+    color: white;
+}
+
+.alert-text {
+    color: red;
+}
+
+#title {
+    background-color: red;
+    font-size: 30px;
+    font-weight: bold italic;
+    font-family: 'Courier New', Courier, monospace;
+    color: violet;
+    text-align: center;
+}
