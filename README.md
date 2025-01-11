@@ -1,3 +1,4 @@
 # git_test
 This is my first github repo
-TheOdinProject is wickedTesting
+TheOdinProject is wicked 
+Testing
